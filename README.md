@@ -1,4 +1,4 @@
-# snake-water-gun-game-using-python
+# Snake-Water-Gun game using Python
 play a game with computer to have for fun!
 
 
