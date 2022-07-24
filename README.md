@@ -1,5 +1,5 @@
 # snake-water-gun-game-using-python
-play a game with computer for fun!
+play a game with computer to have for fun!
 
 
 .... Its a game usually we would play in our childhood ....
